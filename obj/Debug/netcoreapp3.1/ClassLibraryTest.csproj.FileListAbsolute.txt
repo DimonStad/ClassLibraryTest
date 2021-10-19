@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\source\repos\Test\ClassLibraryTest\obj\Debug\netcoreapp3.1\ClassLibraryTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\source\repos\Test\ClassLibraryTest\obj\Debug\netcoreapp3.1\ClassLibraryTest.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\source\repos\Test\ClassLibraryTest\obj\Debug\netcoreapp3.1\ClassLibraryTest.AssemblyInfo.cs
+C:\Users\Дмитрий\source\repos\Test\ClassLibraryTest\obj\Debug\netcoreapp3.1\ClassLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\Test\ClassLibraryTest\bin\Debug\netcoreapp3.1\ClassLibraryTest.deps.json
+C:\Users\Дмитрий\source\repos\Test\ClassLibraryTest\bin\Debug\netcoreapp3.1\ClassLibraryTest.dll
+C:\Users\Дмитрий\source\repos\Test\ClassLibraryTest\bin\Debug\netcoreapp3.1\ClassLibraryTest.pdb
+C:\Users\Дмитрий\source\repos\Test\ClassLibraryTest\obj\Debug\netcoreapp3.1\ClassLibraryTest.dll
+C:\Users\Дмитрий\source\repos\Test\ClassLibraryTest\obj\Debug\netcoreapp3.1\ClassLibraryTest.pdb
+C:\Users\Дмитрий\source\repos\Test\ClassLibraryTest\obj\Debug\netcoreapp3.1\ClassLibraryTest.csproj.AssemblyReference.cache
